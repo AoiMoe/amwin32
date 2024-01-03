@@ -1,4 +1,4 @@
 AM_TOP ?= .
 
-AM_SRCS = $(AM_TOP)/am_log.cpp
+AM_SRCS = am_log.cpp
 AM_CXXFLAGS = -I$(AM_TOP)
